@@ -15,3 +15,6 @@ Interactive Dashboard: Provides a comprehensive view of video performance metric
 ## Creating credentials to use API
 
 Check my colab notebook there I clearly mentioned how to create the API credentials for Google SPread sheet and also mentioned the complete process of how to get the sturucted data into the Google spread Sheets and also I attached the dashboard of the data have a look of it.
+
+## Dashboard
+For creating the dashbord I used lookerstudio which is a free platform available in Google.
